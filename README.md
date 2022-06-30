@@ -1,2 +1,2 @@
-# Project-1
-First Github Project
+# Python Project
+Data Analyst Python Project
